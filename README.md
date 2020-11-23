@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.com/eclipse-cyclonedds/cyclonedds.svg?branch=master)](https://travis-ci.com/eclipse-cyclonedds/cyclonedds)
 [![Coverity Status](https://scan.coverity.com/projects/19078/badge.svg)](https://scan.coverity.com/projects/eclipse-cyclonedds-cyclonedds)
 [![Codecov](https://codecov.io/gh/eclipse-cyclonedds/cyclonedds/branch/master/graphs/badge.svg?branch=master)](https://codecov.io/github/eclipse-cyclonedds/cyclonedds?branch=master)
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6InByYXNhbm5hYmhhdCIsInJlcG8xIjoiY3ljbG9uZWRkcyIsImluY2x1ZGVMaW50IjpmYWxzZSwiYXV0aG9ySWQiOjIzOTEzLCJpYXQiOjE2MDYxMTQ1NjN9.tdgSCVsygESJK70QYJM_el9W3SAQL48i5uVSQ8Q4jYM)](https://www.deepcode.ai/app/gh/prasannabhat/cyclonedds/_/dashboard?utm_content=gh%2Fprasannabhat%2Fcyclonedds)
 
 # Eclipse Cyclone DDS
 
